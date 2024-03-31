@@ -30,10 +30,10 @@
             mask: linear-gradient(to bottom, transparent 5%, #000 40%, #000 60%, transparent 95%);
     transform: translateZ(0px);
     background: #000;
-    --y: #efb940;
-    --o: #e87930;
-    --b: #3479f1;
-    --w: #ede6d6;
+    --y: #4c72f0;
+    --o: #a2cafb;
+    --b: #201358;
+    --w: #fafafa;
   }
   body #wrap .mask {
     width: 80vmin;
